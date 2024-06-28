@@ -129,5 +129,5 @@ function ejercicio10(){
    let rest3 = [...arguments, ...rest2]
    console.log(rest3);
 }
-//ejecutar funcions
+//ejecutar funcions!!
 ejercicio10();
